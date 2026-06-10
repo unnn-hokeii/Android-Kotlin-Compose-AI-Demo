@@ -1,4 +1,3 @@
-[未命名.md](https://github.com/user-attachments/files/28781610/default.md)
 # 实验2：构建Kotlin应用并使用Compose布局
 
 实验名称：构建Kotlin应用并使用Compose布局
